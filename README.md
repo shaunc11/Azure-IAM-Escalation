@@ -73,6 +73,7 @@ az storage blob download \
 
 ## Collected Proofs
 ![ctf storage](ctfstorage.png)
+
 ![Mid Level Group](MidLevelGroup.png)
 
 
