@@ -72,7 +72,7 @@ az storage blob download \
 - Implement Conditional Access and monitoring alerts
 
 ## Collected Proofs
-![ctfstorage](ctfstorage.png)
+![ctf storage](ctfstorage.png)
 ![Mid Level Group](MidLevelGroup.png)
 
 
