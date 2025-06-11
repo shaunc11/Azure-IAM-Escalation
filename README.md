@@ -72,7 +72,9 @@ az storage blob download \
 - Implement Conditional Access and monitoring alerts
 
 ## Collected Proofs
-![](
+![ctfstorage](ctfstorage.png)
+![Mid Level Group](MidLevelGroup.png)
+
 
 ## IAM Takeaway
 Even with proper group nesting and role assignment, Azure RBAC propagation lag caused up to 1 hour of invisible permission mismatch — highlighting how slow privilege changes can expose security blind spots.
