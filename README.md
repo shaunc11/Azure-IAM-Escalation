@@ -25,7 +25,7 @@ I built an escalation chain using Azure AD Security Groups:
 
 The role was only applied to `StorageAccessGroup`. `manager` only belonged to `MidLevelGroup`. If the inheritance worked, access would be silently escalated.
 
-## ⚔️ The Access Attempts
+## The Access Attempts
 
 **Azure Portal**: ❌ “Access Denied”  
 **Browser URL**: ❌ “Public Access Not Permitted”  
@@ -56,7 +56,7 @@ az storage blob download \
   --file ./flag_by_manager.txt \
   --auth-mode login
 
-## 🛡 Detection & Remediation
+## Detection & Remediation
 
 **What to monitor in the real world**:
 
